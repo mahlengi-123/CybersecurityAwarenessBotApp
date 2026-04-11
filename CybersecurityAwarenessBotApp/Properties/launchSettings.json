@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CybersecurityAwarenessBotApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
