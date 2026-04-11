@@ -10,9 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="NewFolder6\**" />
-    <EmbeddedResource Remove="NewFolder6\**" />
-    <None Remove="NewFolder6\**" />
+    
   </ItemGroup>
 
   <ItemGroup>
