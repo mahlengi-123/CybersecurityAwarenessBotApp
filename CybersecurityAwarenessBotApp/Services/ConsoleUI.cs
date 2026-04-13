@@ -11,21 +11,18 @@ namespace CybersecurityAwarenessBotApp.Services
             public void DisplayHeader()
             {
                 Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Green;
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Welcome!");
                 Console.WriteLine("==============================================================");
                 Console.WriteLine("              CYBERSECURITY AWARENESS BOT");
                 Console.WriteLine("==============================================================");
                 Console.WriteLine(@"
-   ___________
-  / _______  /|
- / / _____/ / |
-/ / /____  /  |
-| |  __  | |  |
-| | |  | | |  |
-| | |__| | |  |
-| |______| | /
-|/_______|/ /
+                                                                   
+                                                    
+▄█████ ▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄    █████▄  ▄▄▄ ▄▄▄▄▄▄ 
+██     ▀███▀ ██▄██ ██▄▄  ██▄█▄   ██▄▄██ ██▀██  ██   
+▀█████   █   ██▄█▀ ██▄▄▄ ██ ██   ██▄▄█▀ ▀███▀  ██   
+                                                    
 
           [ SAFE • SMART • SECURE ]
 ");
