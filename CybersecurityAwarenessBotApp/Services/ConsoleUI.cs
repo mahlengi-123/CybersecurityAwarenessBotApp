@@ -12,6 +12,7 @@ namespace CybersecurityAwarenessBotApp.Services
             {
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Welcome!");
                 Console.WriteLine("==============================================================");
                 Console.WriteLine("              CYBERSECURITY AWARENESS BOT");
                 Console.WriteLine("==============================================================");

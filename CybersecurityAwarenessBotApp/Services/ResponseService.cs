@@ -28,7 +28,7 @@ namespace CybersecurityAwarenessBotApp.Services
                 }
                 else if (input.Contains("phishing"))
                 {
-                    return "Phishing is when attackers trick you into giving away personal information through fake emails, messages, or websites.";
+                    return "Phishing is when attackers trick you into giving away personal information through fake emails, messages, or websites.Do not click suspicious links in emails";
                 }
                 else if (input.Contains("safe browsing"))
                 {
